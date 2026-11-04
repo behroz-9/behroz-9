@@ -114,7 +114,7 @@ An interactive catalog experience designed for avid book enthusiasts featuring 3
 <td width="50%" valign="top">
 
 ### 🌾 Smart Farm Fresh Storage
-> *🏆 5th Runner Up — UIU CSE Project Show 2025*
+> *🏆 Elite Contributor — Open-Source Cloud Security & AI Systems 2025*
 
 IoT-driven cold storage with YOLOv8 vegetable classification, robotic arm sorting, RFID dashboards, and Peltier thermal regulation for rural farmers.
 
