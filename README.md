@@ -17,7 +17,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%230A0A0F.svg?style=for-the-badge&logo=github&logoColor=c8f557&labelColor=0a0a0f)](https://github.com/behroz-9)&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%230A0A0F.svg?style=for-the-badge&logo=firefox-browser&logoColor=38bdf8&labelColor=0a0a0f)](https://github.com/behroz-9/Personal-Portfolio)&nbsp;
 [![Email](https://img.shields.io/badge/Email-%230A0A0F.svg?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0a0a0f)](mailto:fayjullahhaqueemon@gmail.com)&nbsp;
-[![UIU](https://img.shields.io/badge/UIU-%230A0A0F.svg?style=for-the-badge&logo=academia&logoColor=c8f557&labelColor=0a0a0f)](https://www.uiu.ac.bd/)
+
 
 <br/>
 
