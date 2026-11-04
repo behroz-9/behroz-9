@@ -237,13 +237,17 @@ A comprehensive recruitment matching platform built to connect employers with ca
 ## 🎮 `$ cat ./snake_game.svg`
 
 <!-- Contribution Snake Animation -->
+## 🎮 `$ cat ./snake_game.svg`
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/behroz-9/behroz-9/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/behroz-9/behroz-9/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/behroz-9/behroz-9/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/behroz-9/behroz-9/output/github-snake.svg" alt="github contribution grid snake animation" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=behroz-9&theme=tokyonight'" />
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
 
 <br/>
 
