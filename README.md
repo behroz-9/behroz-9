@@ -234,7 +234,7 @@ A comprehensive recruitment matching platform built to connect employers with ca
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=5000&pause=500&color=c8f557&center=true&vCenter=true&width=700&height=30&lines=%22Passion+for+Code+%26+Algorithms+%E2%80%94+Building+meaningful+projects%2C+one+line+at+a+time.%22" alt="Quote"/>
 
 <br/><br/>
-## 🎮 `$ cat ./snake_game.svg`
+
 
 <!-- Contribution Snake Animation -->
 ## 🎮 `$ cat ./snake_game.svg`
