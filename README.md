@@ -234,11 +234,22 @@ A comprehensive recruitment matching platform built to connect employers with ca
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=5000&pause=500&color=c8f557&center=true&vCenter=true&width=700&height=30&lines=%22Passion+for+Code+%26+Algorithms+%E2%80%94+Building+meaningful+projects%2C+one+line+at+a+time.%22" alt="Quote"/>
 
 <br/><br/>
+## 🎮 `$ cat ./snake_game.svg`
+
 <!-- Contribution Snake Animation -->
-<!-- Contribution Snake via Public API -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/behroz-9/behroz-9/output/github-contribution-grid-snake.svg" alt="snake" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=behroz-9&theme=tokyonight'" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/behroz-9/behroz-9/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/behroz-9/behroz-9/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/behroz-9/behroz-9/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
 
 <br/>
 
