@@ -235,12 +235,9 @@ A comprehensive recruitment matching platform built to connect employers with ca
 
 <br/><br/>
 <!-- Contribution Snake Animation -->
+<!-- Contribution Snake via Public API -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/behroz-9/behroz-9/output/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/behroz-9/behroz-9/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/behroz-9/behroz-9/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/behroz-9/behroz-9/output/github-contribution-grid-snake.svg" alt="snake" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=behroz-9&theme=tokyonight'" />
 </div>
 
 <br/>
