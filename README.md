@@ -37,17 +37,15 @@
 
 ```json
 {
-  "name"       : "Abu Hujaifa Afsar",
-  "alias"      : "FHE.dev",
-  "location"   : "Dhaka, Bangladesh 🇧🇩",
-  "university" : "United International University (UIU)",
-  "degree"     : "B.Sc. in Computer Science & Engineering",
-  "major"      : "Data Science",
-  "cgpa"       : 3.59,
-  "status"     : "Open to Internships & Collaborations ✅",
-  "interests"  : ["AI / ML", "Full-Stack Dev", "IoT Systems", "Cloud Research"],
-  "clubs"      : ["UIU Computer Club — General Member"],
-  "achievement": "🏆 5th Runner Up — UIU CSE Project Show 2025"
+"name"        : "Abu Hujaifa Afsar",
+  "alias"       : "FHE.dev",
+  "location"    : "Dhaka, Bangladesh 🇧🇩",
+  "education"   : "A Levels Candidate (Advanced Level Academic Studies)",
+  "focus"       : "Software Engineering & Applied Computer Science",
+  "status"      : "Open to Professional Collaborations & Projects ✅",
+  "interests"   : ["AI / ML", "Full-Stack Dev", "IoT Systems", "Cloud Security"],
+  "philosophy"  : "Precision, scalability, and robust system architecture.",
+  "achievement" : "🏆 Elite Contributor — Open-Source Cloud Security & AI Systems"
 }
 ```
 
