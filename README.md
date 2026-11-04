@@ -1,29 +1,29 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abu%20Hujaifa%20Afsar&fontSize=42&fontColor=c8f557&animation=twinkle&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20IoT%20Architect&descSize=16&descAlignY=62)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,20&height=180&section=header&text=Abu%20Hujaifa%20Afsar&fontSize=42&fontColor=F5C542&animation=twinkle&fontAlignY=36&desc=A-Level%20Student%20%E2%80%A2%20Developer%20%E2%80%A2%20Tech%20Enthusiast&descSize=16&descAlignY=62)
 
 <div align="center">
 
 <!-- Live Typing Animation Row 1 -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=c8f557&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%9A%80+Building+next-gen+full-stack+systems;%F0%9F%A4%96+Training+AI+to+understand+the+world;%F0%9F%8C%BF+IoT+%2B+Computer+Vision+%3D+%E2%9C%A8+Innovation;%F0%9F%94%AC+Researching+microarchitectural+security;%F0%9F%92%9B+Passion+for+Code+%26+Algorithms" alt="Main Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=F5C542&center=true&vCenter=true&width=650&height=45&lines=%F0%9F%A6%87+A-Level+Student+%7C+Technology+Enthusiast;%F0%9F%92%BB+Exploring+Full-Stack+Development;%F0%9F%A4%96+Learning+AI+%26+Machine+Learning;%F0%9F%8C%90+Building+skills+through+projects;%E2%9A%A1+Curiosity+%7C+Discipline+%7C+Growth" alt="Main Typing" />
 
 <br/>
 
 <!-- Terminal-style Typing Animation Row 2 -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=38bdf8&center=true&vCenter=true&width=600&height=32&lines=%24+whoami+%E2%86%92+Abu+Hujaifa+Afsar;%24+cat+location.txt+%E2%86%92+Dhaka%2C+Bangladesh;%24+echo+%24STATUS+%E2%86%92+Open+to+Opportunities;%24+./passion.sh+%E2%86%92+AI+%7C+Web+%7C+IoT+%7C+Research" alt="Terminal Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=CBD5E1&center=true&vCenter=true&width=600&height=32&lines=%24+whoami+%E2%86%92+Abu+Hujaifa+Afsar;%24+cat+location.txt+%E2%86%92+Dhaka%2C+Bangladesh;%24+echo+%24STATUS+%E2%86%92+Open+to+Opportunities;%24+./passion.sh+%E2%86%92+AI+%7C+Web+%7C+IoT+%7C+Research" alt="Terminal Typing" />
 
 <br/><br/>
 
 <!-- Premium Badge Row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A0A0F.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0a0a0f)](https://www.linkedin.com/in/fayjullah-haque-6187a5228/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-%230A0A0F.svg?style=for-the-badge&logo=github&logoColor=c8f557&labelColor=0a0a0f)](https://github.com/behroz-9)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230A0A0F.svg?style=for-the-badge&logo=firefox-browser&logoColor=38bdf8&labelColor=0a0a0f)](https://github.com/behroz-9/Personal-Portfolio)&nbsp;
-[![Email](https://img.shields.io/badge/Email-%230A0A0F.svg?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0a0a0f)](mailto:fayjullahhaqueemon@gmail.com)&nbsp;
-[![UIU](https://img.shields.io/badge/UIU-%230A0A0F.svg?style=for-the-badge&logo=academia&logoColor=c8f557&labelColor=0a0a0f)](https://www.uiu.ac.bd/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A0A0F.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=080A10)](https://www.linkedin.com/in/fayjullah-haque-6187a5228/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%230A0A0F.svg?style=for-the-badge&logo=github&logoColor=F5C542&labelColor=080A10)](https://github.com/behroz-9)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230A0A0F.svg?style=for-the-badge&logo=firefox-browser&logoColor=CBD5E1&labelColor=080A10)](https://github.com/behroz-9/Personal-Portfolio)&nbsp;
+[![Email](https://img.shields.io/badge/Email-%230A0A0F.svg?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=080A10)](mailto:fayjullahhaqueemon@gmail.com)&nbsp;
+[![UIU](https://img.shields.io/badge/UIU-%230A0A0F.svg?style=for-the-badge&logo=academia&logoColor=F5C542&labelColor=080A10)](https://www.cambridgeinternational.org/)
 
 <br/>
 
 <!-- Dynamic Stats Inline -->
-![Profile Views](https://komarev.com/ghpvc/?username=behroz-9&style=for-the-badge&color=c8f557&label=PROFILE+VIEWS&labelColor=0a0a0f)&nbsp;
-![Followers](https://img.shields.io/github/followers/behroz-9?style=for-the-badge&color=38bdf8&labelColor=0a0a0f&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=behroz-9&style=for-the-badge&color=F5C542&label=PROFILE+VIEWS&labelColor=080A10)&nbsp;
+![Followers](https://img.shields.io/github/followers/behroz-9?style=for-the-badge&color=CBD5E1&labelColor=080A10&label=FOLLOWERS)
 
 </div>
 
@@ -40,16 +40,13 @@
   "name"       : "Abu Hujaifa Afsar",
   "alias"      : "FHE.dev",
   "location"   : "Dhaka, Bangladesh 🇧🇩",
-  "university" : "United International University (UIU)",
-  "degree"     : "B.Sc. in Computer Science & Engineering",
-  "major"      : "Data Science",
-  "cgpa"       : 3.59,
-  "status"     : "Open to Internships & Collaborations ✅",
+  "education"  : "Currently studying A-Level",
+        "status"     : "Open to Internships & Collaborations ✅",
   "interests"  : ["AI / ML", "Full-Stack Dev", "IoT Systems", "Cloud Research"],
-  "clubs"      : ["UIU Computer Club — General Member"],
-  "achievement": "🏆 5th Runner Up — UIU CSE Project Show 2025"
-}
+    }
 ```
+
+I am currently studying A-Level and developing my skills in software development and emerging technologies. I enjoy learning by building projects, exploring new ideas, and strengthening my technical foundations.
 
 <br/>
 
@@ -61,30 +58,30 @@
 
 <div align="center">
 
-### `// Languages`
-![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=c8f557)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=38bdf8)
-![PHP](https://img.shields.io/badge/PHP-0a0a0f?style=for-the-badge&logo=php&logoColor=c8f557)
-![Java](https://img.shields.io/badge/Java-0a0a0f?style=for-the-badge&logo=openjdk&logoColor=38bdf8)
-![C++](https://img.shields.io/badge/C++-0a0a0f?style=for-the-badge&logo=cplusplus&logoColor=c8f557)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=38bdf8)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0f?style=for-the-badge&logo=css3&logoColor=c8f557)
+### `// Programming Languages`
+![Python](https://img.shields.io/badge/Python-0a0a0f?style=for-the-badge&logo=python&logoColor=F5C542)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=CBD5E1)
+![PHP](https://img.shields.io/badge/PHP-0a0a0f?style=for-the-badge&logo=php&logoColor=F5C542)
+![Java](https://img.shields.io/badge/Java-0a0a0f?style=for-the-badge&logo=openjdk&logoColor=CBD5E1)
+![C++](https://img.shields.io/badge/C++-0a0a0f?style=for-the-badge&logo=cplusplus&logoColor=F5C542)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=CBD5E1)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0f?style=for-the-badge&logo=css3&logoColor=F5C542)
 
 ### `// Frameworks & Tools`
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0a0f?style=for-the-badge&logo=springboot&logoColor=c8f557)
-![Laravel](https://img.shields.io/badge/Laravel-0a0a0f?style=for-the-badge&logo=laravel&logoColor=38bdf8)
-![React](https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=c8f557)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0a0f?style=for-the-badge&logo=bootstrap&logoColor=38bdf8)
-![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0f?style=for-the-badge&logo=opencv&logoColor=c8f557)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a0a0f?style=for-the-badge&logo=scikitlearn&logoColor=38bdf8)
-![Figma](https://img.shields.io/badge/Figma-0a0a0f?style=for-the-badge&logo=figma&logoColor=c8f557)
-![Postman](https://img.shields.io/badge/Postman-0a0a0f?style=for-the-badge&logo=postman&logoColor=38bdf8)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0a0f?style=for-the-badge&logo=springboot&logoColor=F5C542)
+![Laravel](https://img.shields.io/badge/Laravel-0a0a0f?style=for-the-badge&logo=laravel&logoColor=CBD5E1)
+![React](https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=F5C542)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0a0a0f?style=for-the-badge&logo=bootstrap&logoColor=CBD5E1)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0f?style=for-the-badge&logo=opencv&logoColor=F5C542)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0a0a0f?style=for-the-badge&logo=scikitlearn&logoColor=CBD5E1)
+![Figma](https://img.shields.io/badge/Figma-0a0a0f?style=for-the-badge&logo=figma&logoColor=F5C542)
+![Postman](https://img.shields.io/badge/Postman-0a0a0f?style=for-the-badge&logo=postman&logoColor=CBD5E1)
 
 ### `// Databases & DevOps`
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=for-the-badge&logo=mysql&logoColor=c8f557)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=38bdf8)
-![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=c8f557)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=38bdf8)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0f?style=for-the-badge&logo=mysql&logoColor=F5C542)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0f?style=for-the-badge&logo=postgresql&logoColor=CBD5E1)
+![Git](https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=F5C542)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=CBD5E1)
 
 </div>
 
@@ -110,7 +107,7 @@ An interactive catalog experience designed for avid book enthusiasts featuring 3
 
 **🔑 Stack:** `Java` `Spring Boot` `React.js` `HTML/CSS` `MySQL`
 
-[![Repo](https://img.shields.io/badge/Source_Code-%230a0a0f?style=for-the-badge&logo=github&logoColor=c8f557)](https://github.com/behroz-9)
+[![Repo](https://img.shields.io/badge/Source_Code-%230a0a0f?style=for-the-badge&logo=github&logoColor=F5C542)](https://github.com/behroz-9)
 
 </td>
 <td width="50%" valign="top">
@@ -122,7 +119,7 @@ IoT-driven cold storage with YOLOv8 vegetable classification, robotic arm sortin
 
 **🔑 Stack:** `Python` `YOLOv8` `OpenCV` `IoT` `ESP32` `RFID`
 
-[![Repo](https://img.shields.io/badge/Source_Code-%230a0a0f?style=for-the-badge&logo=github&logoColor=c8f557)](https://github.com/behroz-9)
+[![Repo](https://img.shields.io/badge/Source_Code-%230a0a0f?style=for-the-badge&logo=github&logoColor=F5C542)](https://github.com/behroz-9)
 
 </td>
 </tr>
@@ -136,7 +133,7 @@ A feature-rich testing platform supporting multi-environment variable bindings, 
 
 **🔑 Stack:** `JavaScript` `API Testing` `Automation`
 
-[![Repo](https://img.shields.io/badge/Source_Code-%230a0a0f?style=for-the-badge&logo=github&logoColor=c8f557)](https://github.com/behroz-9)
+[![Repo](https://img.shields.io/badge/Source_Code-%230a0a0f?style=for-the-badge&logo=github&logoColor=F5C542)](https://github.com/behroz-9)
 
 </td>
 <td width="50%" valign="top">
@@ -148,7 +145,7 @@ A comprehensive recruitment matching platform built to connect employers with ca
 
 **🔑 Stack:** `PHP` `Laravel` `MySQL` `Bootstrap`
 
-[![Repo](https://img.shields.io/badge/Source_Code-%230a0a0f?style=for-the-badge&logo=github&logoColor=c8f557)](https://github.com/behroz-9)
+[![Repo](https://img.shields.io/badge/Source_Code-%230a0a0f?style=for-the-badge&logo=github&logoColor=F5C542)](https://github.com/behroz-9)
 
 </td>
 </tr>
@@ -203,7 +200,7 @@ A comprehensive recruitment matching platform built to connect employers with ca
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=behroz-9&bg_color=0a0a0f&color=c8f557&line=38bdf8&point=ffffff&area=true&area_color=0f2a30&hide_border=true&radius=12" width="100%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=behroz-9&bg_color=080A10&color=F5C542&line=38bdf8&point=FFFFFF&area=true&area_color=343B49&hide_border=true&radius=12" width="100%" alt="Activity Graph"/>
 
 </div>
 
@@ -231,14 +228,14 @@ A comprehensive recruitment matching platform built to connect employers with ca
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=5000&pause=500&color=c8f557&center=true&vCenter=true&width=700&height=30&lines=%22Passion+for+Code+%26+Algorithms+%E2%80%94+Building+meaningful+projects%2C+one+line+at+a+time.%22" alt="Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=5000&pause=500&color=F5C542&center=true&vCenter=true&width=700&height=30&lines=%22Passion+for+Code+%26+Algorithms+%E2%80%94+Building+meaningful+projects%2C+one+line+at+a+time.%22" alt="Quote"/>
 
 <br/><br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,20&height=100&section=footer&fontSize=0)
 
 <a href="https://github.com/behroz-9">
-  <img src="https://img.shields.io/badge/%3C%20Engineered%20with%20%E2%9A%A1%20by%20Abu%20Hujaifa%20Afsar%20%2F%3E-0a0a0f?style=flat-square&labelColor=0a0a0f&color=c8f557"/>
+  <img src="https://img.shields.io/badge/%3C%20Engineered%20with%20%E2%9A%A1%20by%20Abu%20Hujaifa%20Afsar%20%2F%3E-0a0a0f?style=flat-square&labelColor=080A10&color=F5C542"/>
 </a>
 
 </div>
